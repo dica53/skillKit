@@ -3,7 +3,7 @@ name: validate-review-findings
 description: Validate code review findings and PR comments before acting; reject false positives and push back with evidence. Use when judging findings from any reviewer, human or bot.
 ---
 
-# Validate Review Findings
+# Validate review findings
 
 A finding is a claim, not an instruction. Act only on findings that are real, in scope, and worth the change.
 

@@ -3,7 +3,7 @@ name: principle-model-the-domain
 description: "Apply when writing stateful logic, or when code branches a lot or repeats the same assumption about a data shape across files. Encode the domain in a data structure with one owner instead of scattering it across conditionals."
 ---
 
-# Model the Domain
+# Model the domain
 
 Put the real rules of the domain into a data structure instead of spreading them across `if` statements. The right structure makes invalid states impossible and deletes branches. It is cheap to choose when you write the code and expensive to recover later.
 

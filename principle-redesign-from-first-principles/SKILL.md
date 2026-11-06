@@ -3,7 +3,7 @@ name: principle-redesign-from-first-principles
 description: "Apply when a new requirement, caller, or surface has to fit into an existing design. Redesign as if the requirement had been there from the start instead of bolting on a special case."
 ---
 
-# Redesign From First Principles
+# Redesign from first principles
 
 When a change has to fit an existing design, don't bolt it on. Ask what you would build if the new requirement had been part of the original brief, and build toward that.
 

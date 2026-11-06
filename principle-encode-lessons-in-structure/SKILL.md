@@ -3,7 +3,7 @@ name: principle-encode-lessons-in-structure
 description: "Apply when you are about to add a rule to a skill, an agent instruction file, a code comment, or memory, or when you make the same correction a second time. Make a tool enforce the rule instead of writing it down again."
 ---
 
-# Encode Lessons in Structure
+# Encode lessons in structure
 
 A written rule works only if someone reads it and remembers it. A tool that enforces the rule works every time. So when the same mistake happens twice, more wording will not fix it. Make the mistake impossible, or make it fail loudly.
 

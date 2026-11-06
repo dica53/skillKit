@@ -3,7 +3,7 @@ name: deep-review
 description: "Run deep-correctness-review and deep-maintainability-review as parallel subagents, then synthesize their findings. Use for a combined correctness, security and code-quality audit of a branch (formerly thermos)."
 ---
 
-# Deep Review
+# Deep review
 
 Run `deep-correctness-review` and `deep-maintainability-review` as async background subagents in parallel, then synthesize their results.
 

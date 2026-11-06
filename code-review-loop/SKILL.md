@@ -3,7 +3,7 @@ name: code-review-loop
 description: Review changes, fix validated findings, and repeat until no actionable findings remain within scope. Use when review includes taking action.
 ---
 
-# Code Review Loop
+# Code review loop
 
 Use the `review` skill for each review pass.
 

@@ -3,7 +3,7 @@ name: principle-type-system-discipline
 description: "Apply when designing types or props, reviewing a function or component signature, or writing statically typed code. Make impossible states fail to compile, give same-shaped values distinct types, parse external data at the boundary, and derive types from the schema that owns them."
 ---
 
-# Type System Discipline
+# Type system discipline
 
 Let the compiler reject impossible states, mixed-up values, and unhandled cases. Prefer designing a special case out of the type over handling it in code.
 

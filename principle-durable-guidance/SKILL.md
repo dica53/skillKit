@@ -3,7 +3,7 @@ name: principle-durable-guidance
 description: "Apply when writing or editing text that outlives the task: code comments, docstrings, READMEs, docs, skills, agent instruction files, or memory. Write the lasting principle once, at the source of truth, and point to facts instead of copying them, so the text does not drift from the code."
 ---
 
-# Durable Guidance
+# Durable guidance
 
 Text drifts when it restates something that changes somewhere else. Code, config, and schemas get updated; prose that copies them does not, and readers cannot tell which one is right. Durable text says what the code cannot say, and points to the code for the rest.
 

@@ -2,14 +2,15 @@
 name: skill-writing
 description: Write or revise concise agent skills that balance the Bitter Lesson with useful guidance, preferences, and context.
 ---
-# Skill Writing
+
+# Skill writing
 
 The Bitter Lesson favors general methods that improve with compute, data, and feedback. Give agents durable goals and constraints; leave methods open to adaptation.
 
 Write only what changes behavior today. Use these as questions for deciding what to include, not as sections to fill; many skills need only a purpose and a few principles:
 
 - **Purpose:** desired outcome and when the skill applies.
-- **Bar:** the standard that defines acceptable work. 
+- **Bar:** the standard that defines acceptable work.
 - **Context:** relevant facts, tools, and boundaries the agent cannot reliably infer.
 - **Preferences:** defaults, clearly separated from requirements.
 - **Checks:** observable success criteria and necessary safety constraints.

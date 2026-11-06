@@ -3,7 +3,7 @@ name: principle-migrate-callers-then-delete-legacy-apis
 description: "Apply when introducing a new internal API, prop, or contract while old callers still use the previous one. Move every caller to the new contract and delete the old one in the same change, instead of keeping a compatibility path."
 ---
 
-# Migrate Callers, Then Delete the Legacy API
+# Migrate callers, then delete the legacy API
 
 When you replace an internal API, move every caller to the new one and delete the old one in the same change. Don't keep a fallback "for compatibility": it doubles the paths readers must understand and tends to stay forever.
 

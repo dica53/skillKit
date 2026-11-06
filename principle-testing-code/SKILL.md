@@ -3,7 +3,7 @@ name: principle-testing-code
 description: "Apply when writing, changing, or reviewing automated tests. Write the smallest test that pins what the code's users can observe, keep its runtime flat as the suite grows, and check it fails when behavior breaks but survives internal changes."
 ---
 
-# Testing Code
+# Testing code
 
 A test is a claim about what the code does for its users: a caller, an end user, or another service. It earns its place when it fails if that behavior breaks, keeps passing when only the internals change, and costs little to run every time CI does.
 

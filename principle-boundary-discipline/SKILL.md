@@ -3,7 +3,7 @@ name: principle-boundary-discipline
 description: "Apply when wiring validation, error handling, framework adapters, or a component that several surfaces reuse. Check inputs where data enters the system, trust typed data inside it, and keep caller-specific policy at the edge."
 ---
 
-# Boundary Discipline
+# Boundary discipline
 
 A boundary is where data enters your code from somewhere you don't control: a request, a config file, an external API, a URL. Check and convert data there, once. Inside, trust the types.
 

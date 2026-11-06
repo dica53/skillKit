@@ -3,7 +3,7 @@ name: principle-minimize-reader-load
 description: "Apply when code is hard to trace, or before adding a wrapper, layer, type, or piece of state. Keep the layers a reader must follow and the hidden state they must remember as small as possible."
 ---
 
-# Minimize Reader Load
+# Minimize reader load
 
 Code is maintainable when a reader can understand it quickly. Two things make that hard:
 
